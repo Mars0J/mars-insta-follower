@@ -1,5 +1,7 @@
 # mars-insta-follower
-İnternet Erişimi ile sağlanan bir takipçi aracıdır
+![](https://img.shields.io/github/license/Mars0J/mars-insta-followernternet)
+
+Erişimi ile sağlanan bir takipçi aracıdır
 ***
 Kullanım 
 ```
