@@ -2,6 +2,8 @@
 ![](https://img.shields.io/github/license/Mars0J/mars-insta-follower)
 ![](https://img.shields.io/github/languages/count/Mars0J/mars-insta-follower)
 ![](https://img.shields.io/github/contributors/Mars0J/mars-insta-follower)
+![](https://img.shields.io/gem/v/ruby)
+
 ___
 internet Erişimi ile sağlanan bir takipçi aracıdır
 ***
