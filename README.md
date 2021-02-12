@@ -16,3 +16,8 @@ ruby marsinstafollower.rb
 
 ```
 ***
+Bu Araç GNU/linux / Kali Linux için yapıldı
+
+<a href="https://emoji.gg/emoji/3225_kali"><img src="https://emoji.gg/assets/emoji/3225_kali.png" width="64px" height="64px" alt="kali"></a>
+
+**Made By Mars**
