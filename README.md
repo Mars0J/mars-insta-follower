@@ -3,7 +3,7 @@
 ![](https://img.shields.io/github/languages/count/Mars0J/mars-insta-follower)
 ![](https://img.shields.io/github/contributors/Mars0J/mars-insta-follower)
 ![](https://img.shields.io/gem/v/ruby)
-![](https://www.ruby-lang.org/images/header-ruby-logo.png)
+![](https://img2.pngindir.com/20180630/gyi/kisspng-ruby-on-rails-logo-5b3826770f5171.6115452815304065190628.jpg)
 ___
 internet Erişimi ile sağlanan bir takipçi aracıdır
 ***
