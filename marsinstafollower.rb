@@ -65,7 +65,7 @@ for i in başla_iterator..bitti_iterator do
 	
 	tarayıcı.close()
 
-	tarayıcı = Watir::Browser.new :chrome, switches: ['--incognito']
+	tarayıcı = Watir::Browser.new :firefox, switches: ['--incognito']
 	tarayıcı.goto(insta_url)
 
 	sleep(5)
